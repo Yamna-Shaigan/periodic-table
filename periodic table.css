@@ -1,0 +1,39 @@
+td {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+.number {
+    line-height: 0px;
+   font-size: 12px;
+  font-weight: bold;
+} 
+.name {
+    line-height: 0px;
+     
+    font-weight: bold;
+} 
+.one {
+    background-color: rgb(98, 122, 94);
+}
+.two {
+    background-color: rgb(179, 46, 46);
+}
+.three {
+    background-color:  rgb(108, 117, 197);
+}
+.four {
+    background-color: rgb(230, 230, 85);
+}
+.main {
+    background-color:rgb(108, 117, 197) ;
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 5px;
+    border-color: rgb(184, 55, 55);
+    margin-top: 10px;
+    margin-right: 300px;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    
+}
